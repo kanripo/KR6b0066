@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 百喻經
+#+DATE: 2015-08-30 19:36:09.313825
+#+PROPERTY: JUAN 0
